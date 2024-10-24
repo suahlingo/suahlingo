@@ -1,3 +1,1 @@
-## Hi there 👋
-
-![suahlingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=suahlingo&show_icons=true&theme=transparent)
+## ㅎㅇ 아직 안꾸밈
