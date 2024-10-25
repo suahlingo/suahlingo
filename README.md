@@ -1,9 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=venom&text=SuaKim&color=gradient&customColorList=12&fontColor=F6F6F6)
+
+
 ## Stacks
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=red)
-![data](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![django](https://img.shields.io/badge/Django-F15F5F?style=for-the-badge&logo=django&logoColor=black)
+![data](https://img.shields.io/badge/MySQL-A6A6A6?style=for-the-badge&logo=mysql&logoColor=black)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=red)
+![aws](https://img.shields.io/badge/Amazon_AWS-5586EB?style=for-the-badge&logo=amazon-aws&logoColor=red)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
