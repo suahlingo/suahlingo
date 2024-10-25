@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=SuaKim&color=gradient&customColorList=12&fontColor=F6F6F6&rotate=15&fontAlignY=-5&fontAlign=80&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=venom&text=SuaKim&color=gradient&customColorList=12&fontColor=F6F6F6&)
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
