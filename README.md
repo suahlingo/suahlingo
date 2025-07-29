@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Sualingo&color=gradient&customColorList=12&fontColor=F6F6F6&)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Suahlingo&color=gradient&customColorList=12&fontColor=F6F6F6&)
 
 <br>
 <br>
